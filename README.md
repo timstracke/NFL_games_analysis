@@ -29,6 +29,6 @@
 
 ## Results
 * the overall winning percentage after a BYE week is only slightly larger than the general winning percentage (2%)
-* the performance after a BYE week varies strongly from team to team
+* the performance after a BYE week varies strongly from team to team (however, each team has not played enough games after a BYE week, so we can not draw any conclusions here)
 * teams with a winning record before are even more likely to win after a BYE week
 * teams with a neutral or losing record are slightly less likely to win after BYE week
