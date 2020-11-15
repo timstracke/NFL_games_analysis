@@ -16,6 +16,19 @@
 
 ## Data Analysis
 * created a dictionary with a list of games after a BYE week for each team
-* calculated the winning percentage after a BYE week for each team seperately and compared it to their general winning percentage
 * calculated the overall winning percentage after a BYE week
 * calculated the winning percentage after a BYE week for teams with a winning and neutral/losing record 
+* calculated the winning percentage after a BYE week for each team seperately and compared it to their general winning percentage
+
+
+![1](winning_perc_after_BYE.png)
+
+![2](winning_perc_record.png)
+
+![title of image number 3](winning_perc_teams.png)
+
+## Results
+* the overall winning percentage after a BYE week is only slightly larger than the general winning percentage (2%)
+* the performance after a BYE week varies strongly from team to team
+* teams with a winning record before are even more likely to win after a BYE week
+* teams with a neutral or losing record are slightly less likely to win after BYE week
